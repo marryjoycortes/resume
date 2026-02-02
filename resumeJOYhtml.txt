@@ -114,15 +114,16 @@
       <div class="section"> 
            <h2>Education Background</h2>
               <h3>Primary</h3>
-               <p><em>Elementary School</em></p>
-               <p><em>2012-2019</em></p>
+               <p>Elementary School</p>
+               <p>2012-2019</p>
                <h3>secondary</h3>
-               <p><em>National High School</em></p>
-               <p><em>2019-2025</em></p>
+               <p>National High School</p>
+               <p>2019-2025</p>
               <h3>Tertiary</h3>
-              <p><em> Philippine Technological Institute of Science Arts and Trades. | 2025 - Present</em></p>
+              <p> Philippine Technological Institute of Science Arts and Trades. | 2025 - Present</p>
           </article>
       </section>
 
       </div></body>
       </html>
+
